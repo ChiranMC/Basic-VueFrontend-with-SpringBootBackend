@@ -1,5 +1,6 @@
 package com.retailers.test.dto;
 
+
 public class RetailerDTO {
     private int id;
     private String Nic_no;

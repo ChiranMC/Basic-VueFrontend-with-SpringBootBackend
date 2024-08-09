@@ -5,10 +5,12 @@ import com.retailers.test.dto.RetailerDTO;
 import com.retailers.test.entity.Retailer;
 import com.retailers.test.service.RetailerService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
+@Service
 public class RetailerServiceImpl implements RetailerService {
 
     @Autowired
