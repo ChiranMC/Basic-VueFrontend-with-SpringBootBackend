@@ -1,0 +1,10 @@
+com/retailers/test/controller/RetailerController.class
+com/retailers/test/mapper/RetailerRowMapper$DynamicColumnRowMapper.class
+com/retailers/test/dto/RetailerDTO.class
+com/retailers/test/TestApplication.class
+com/retailers/test/dao/RetailerDAO.class
+com/retailers/test/entity/Retailer.class
+com/retailers/test/service/impl/RetailerServiceImpl.class
+com/retailers/test/apiresponses/ApiResponse.class
+com/retailers/test/service/RetailerService.class
+com/retailers/test/mapper/RetailerRowMapper.class
